@@ -80,3 +80,6 @@ Atividade realizada para a disciplina de Engenharia de Software. O objetivo é f
 **Protótipo**
 
 https://www.figma.com/file/scw1E9c7MGXyttQ24vLgnI/App---Eng.-Software?node-id=1%3A18
+
+<center> <img src="img/Login.png" alt="" width="200px">
+<img src="img/Search.png" alt="" width="200px">
