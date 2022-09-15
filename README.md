@@ -84,6 +84,6 @@ Nenhum produto encontrado.
 
 [IN] O usuário informa um novo nome.
 
-**Protótipo**
+**Protótipo:**
 
 https://www.figma.com/file/scw1E9c7MGXyttQ24vLgnI/App---Eng.-Software?node-id=1%3A18
