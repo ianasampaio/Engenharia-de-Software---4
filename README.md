@@ -1,6 +1,6 @@
-# Atividade 4 - Engenharia de Software
+# Engenharia de software-2022.2 | Universidade Federal do Tocantins - Palmas, 2022
 
-Atividade realizada para a disciplina de Engenharia de Software. O objetivo é fazer um relatório,  utilizando Markdown, que aborde os seguintes tópicos:
+Atividade realizada para a disciplina de Engenharia de Software. O objetivo é fazer um relatório utilizando Markdown, que aborde os seguintes tópicos:
 
 1. Definir 2 requisitos funcionais de um sistema qualquer.
 2. Descrever o Caso de Uso Expandido para os 2 requisitos.
@@ -9,22 +9,22 @@ Atividade realizada para a disciplina de Engenharia de Software. O objetivo é f
 
 ## Requisitos Funcionais
 
-- Tela de login
-- Tela de busca
+- Efetuar login
+- Efetuar busca
 
 ## User Story
 
-**Tela de Login**
+**Efetuar login**
 
 “Como usuário, posso entrar na minha conta com meu email e senha para ter acesso às funcionalidades do aplicativo.”
 
-**Tela de busca**
+**Efetuar busca**
 
 “Como usuário, posso pesquisar os produtos pelo nome para encontrar rapidamente o que desejo.”
 
 ## Caso de Uso Expandido
 
-**RQ01 - Tela de Login**
+**RQ01 - Efetuar login**
 
 **Descrição:**
 
@@ -50,13 +50,13 @@ O ator deve ser cadastrado no sistema.
 
 FA01 - Link “Forgot password”:
 
-Ao clicar no link “I forgot my password” na tela de Login, o autor é direcionado para uma tela de recuperação de senha;
+Ao clicar no link “I forgot my password” na Efetuar login, o autor é direcionado para uma tela de recuperação de senha;
 
 FA02 - Link “Create your account”:
 
-Ao clicar no link “Create your account”, na tela de Login, o autor é direcionado para uma tela de Cadastro;  
+Ao clicar no link “Create your account”, na Efetuar login, o autor é direcionado para uma tela de Cadastro;  
 
-**2. RQ02 - Tela de Busca**
+**2. RQ02 - Efetuar busca**
     
 **Descrição:**
 
